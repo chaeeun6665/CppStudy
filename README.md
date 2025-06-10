@@ -1,2 +1,1 @@
-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 
-CLion Token
+C++ 공부하는 레포입니다.
