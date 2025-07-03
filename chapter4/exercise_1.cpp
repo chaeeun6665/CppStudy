@@ -2,6 +2,9 @@
 // Created by Jayce Lee on 25. 7. 4.
 //
 
+//챕터 4
+//프로그래밍 연습 1
+
 #include <iostream>
 #include <string>
 
