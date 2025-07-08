@@ -23,7 +23,7 @@ int main() {
     while (true) {
         year++;
         total_price_a += principal_a;
-        principal_b += principal_b * 0.05;
+        principal_b += principal_b * interest_b;
 
         if (principal_b > total_price_a) {
             cout << year << "년이 지나면 B의 가치가 A의 가치를 능가합니다. \n";
